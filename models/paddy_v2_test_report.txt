@@ -1,0 +1,28 @@
+PADDY V2 UNTOUCHED TEST EVALUATION
+============================================================
+Checkpoint: C:\Users\hp\Documents\LiveCam_AgriVision\models\paddy_v2_best.pth
+Best validation accuracy: nan%
+Test images: 1570
+Correct: 1224
+Incorrect: 346
+Test accuracy: 77.96%
+
+Classification report:
+                          precision    recall  f1-score   support
+
+   bacterial_leaf_blight     0.7463    0.6849    0.7143        73
+   bacterial_leaf_streak     0.6761    0.8421    0.7500        57
+bacterial_panicle_blight     0.7344    0.9038    0.8103        52
+                   blast     0.7945    0.7672    0.7806       262
+              brown_spot     0.7252    0.6507    0.6859       146
+              dead_heart     0.8967    0.8802    0.8884       217
+            downy_mildew     0.7143    0.7527    0.7330        93
+                   hispa     0.7455    0.6958    0.7198       240
+                  normal     0.8082    0.8872    0.8459       266
+                  tungro     0.7580    0.7256    0.7414       164
+
+                accuracy                         0.7796      1570
+               macro avg     0.7599    0.7790    0.7670      1570
+            weighted avg     0.7799    0.7796    0.7783      1570
+
+Elapsed: 10.8 seconds

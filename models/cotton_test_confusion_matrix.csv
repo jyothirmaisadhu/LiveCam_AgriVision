@@ -1,0 +1,6 @@
+Actual / Predicted,Alternaria Leaf Spot,Bacterial Blight,Fusarium Wilt,Healthy Leaf,Verticillium Wilt
+Alternaria Leaf Spot,24,0,2,0,1
+Bacterial Blight,0,25,4,0,5
+Fusarium Wilt,0,2,50,0,0
+Healthy Leaf,0,0,0,51,0
+Verticillium Wilt,2,3,0,0,43

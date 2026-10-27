@@ -1,0 +1,11 @@
+Actual / Predicted,bacterial_leaf_blight,bacterial_leaf_streak,bacterial_panicle_blight,blast,brown_spot,dead_heart,downy_mildew,hispa,normal,tungro
+bacterial_leaf_blight,50,0,0,5,6,1,3,2,2,4
+bacterial_leaf_streak,0,48,0,3,1,2,1,0,2,0
+bacterial_panicle_blight,0,0,47,1,1,3,0,0,0,0
+blast,4,7,1,201,4,4,4,12,7,18
+brown_spot,5,4,1,8,95,1,8,10,8,6
+dead_heart,1,2,8,7,2,191,0,1,4,1
+downy_mildew,1,0,0,4,2,1,70,9,5,1
+hispa,3,7,2,13,11,5,4,167,25,3
+normal,0,1,5,1,2,2,0,14,236,5
+tungro,3,2,0,10,7,3,8,9,3,119

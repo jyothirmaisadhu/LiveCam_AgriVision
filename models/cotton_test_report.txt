@@ -1,0 +1,18 @@
+COTTON TEST RESULTS
+Checkpoint: C:\Users\hp\Documents\LiveCam_AgriVision\models\cotton_best.pth
+Test images: 212
+Accuracy: 91.04%
+
+                      precision    recall  f1-score   support
+
+Alternaria Leaf Spot     0.9231    0.8889    0.9057        27
+    Bacterial Blight     0.8333    0.7353    0.7812        34
+       Fusarium Wilt     0.8929    0.9615    0.9259        52
+        Healthy Leaf     1.0000    1.0000    1.0000        51
+   Verticillium Wilt     0.8776    0.8958    0.8866        48
+
+            accuracy                         0.9104       212
+           macro avg     0.9054    0.8963    0.8999       212
+        weighted avg     0.9095    0.9104    0.9091       212
+
+Elapsed seconds: 3.2

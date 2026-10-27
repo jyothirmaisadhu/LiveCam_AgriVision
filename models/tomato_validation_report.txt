@@ -1,0 +1,36 @@
+Validation images: 200
+Accuracy: 65.00%
+
+PER-CLASS METRICS
+
+                                      precision    recall  f1-score   support
+
+                      Bacterial_spot      0.621     0.900     0.735        20
+                        Early_blight      1.000     0.100     0.182        20
+                         Late_blight      0.812     0.650     0.722        20
+                           Leaf_Mold      0.455     0.500     0.476        20
+                  Septoria_leaf_spot      1.000     0.150     0.261        20
+Spider_mites Two-spotted_spider_mite      0.488     1.000     0.656        20
+                         Target_Spot      0.441     0.750     0.556        20
+       Tomato_Yellow_Leaf_Curl_Virus      0.895     0.850     0.872        20
+                 Tomato_mosaic_virus      0.941     0.800     0.865        20
+                             healthy      0.941     0.800     0.865        20
+
+                            accuracy                          0.650       200
+                           macro avg      0.759     0.650     0.619       200
+                        weighted avg      0.759     0.650     0.619       200
+
+
+CONFUSION MATRIX (rows=true, columns=predicted)
+
+Class order: Bacterial_spot, Early_blight, Late_blight, Leaf_Mold, Septoria_leaf_spot, Spider_mites Two-spotted_spider_mite, Target_Spot, Tomato_Yellow_Leaf_Curl_Virus, Tomato_mosaic_virus, healthy
+[[18  0  0  0  0  1  0  1  0  0]
+ [ 4  2  1  4  0  1  6  1  1  0]
+ [ 1  0 13  4  0  1  1  0  0  0]
+ [ 1  0  0 10  0  5  4  0  0  0]
+ [ 3  0  2  3  3  2  6  0  0  1]
+ [ 0  0  0  0  0 20  0  0  0  0]
+ [ 0  0  0  0  0  5 15  0  0  0]
+ [ 2  0  0  0  0  1  0 17  0  0]
+ [ 0  0  0  1  0  2  1  0 16  0]
+ [ 0  0  0  0  0  3  1  0  0 16]]

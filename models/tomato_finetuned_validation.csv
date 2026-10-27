@@ -1,0 +1,501 @@
+image_path,label
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (3701).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (869).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (714).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (1019).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (2926).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (311).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (774).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (1799).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (611).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (688).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (179).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (2).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (657).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1028).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (1160).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (961).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (298).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1601).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (661).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (469).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (2577).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (224).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (208).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1576).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (510).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (345).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (203).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (392).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (539).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (624).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (431).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (666).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (1010).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (472).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (285).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (959).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (855).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (691).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (767).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (658).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (173).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1680).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (200).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (269).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (278).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (239).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (869).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1175).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (141).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (266).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (1211).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1347).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1722).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (170).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (395).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1023).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (1353).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (875).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (1376).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (132).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (164).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (1398).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (199).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (223).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1619).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (112).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1161).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (109).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (478).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (441).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (241).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (136).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (463).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (149).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1705).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (193).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (844).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1266).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (536).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (949).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (524).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (62).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (789).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1569).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1481).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (151).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (542).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (3281).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (368).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (556).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (1292).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (228).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (730).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1896).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (189).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (108).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (182).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (108).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1008).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (877).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (658).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (134).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1596).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1018).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (608).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (515).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (697).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (3105).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (630).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (980).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (32).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (29).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (223).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (595).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1107).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (74).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (10).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (502).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (317).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (297).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (812).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (34).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (669).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (918).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1833).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (1861).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (400).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (2525).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (1254).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (103).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (1416).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (4411).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (561).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (661).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (116).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (846).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (908).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1510).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (5101).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (440).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (834).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (418).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (381).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1371).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (751).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1872).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (327).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (64).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (690).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (206).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (811).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (518).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (215).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1365).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (200).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (2036).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (313).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1814).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (4739).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1376).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (243).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (122).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (674).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1265).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (777).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1297).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (3489).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1799).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1437).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1595).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (782).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (193).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (76).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (507).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (308).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1504).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (344).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1116).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (840).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1559).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1458).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (333).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (743).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (184).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (67).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (747).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (21).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (267).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (470).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1768).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (574).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (796).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1112).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (455).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (2320).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (697).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (711).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (311).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (242).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (464).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (5112).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (531).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (290).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (359).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (99).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (488).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1128).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (975).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (365).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1489).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (292).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1151).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (652).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (155).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1332).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (654).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (237).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1580).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (653).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (335).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (247).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (275).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (1608).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (2062).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (1901).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (2631).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (611).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (461).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (378).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (923).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (217).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1295).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (319).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1331).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1170).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (638).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (111).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1315).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1034).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1525).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (46).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1974).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (405).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1429).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (344).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (395).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (121).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (401).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (5070).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (85).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (771).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (968).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (518).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (338).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (207).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (4267).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1133).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1483).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (2449).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1491).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1297).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (493).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (939).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1046).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (530).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1624).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1606).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1452).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1116).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (289).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (966).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (668).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (841).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1776).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1572).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (471).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (53).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1519).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1768).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1731).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1077).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1039).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (433).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1330).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (40).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (844).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (19).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (478).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (897).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (650).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (148).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (262).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (2109).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (24).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (4020).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1520).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (338).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (2944).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1199).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (4833).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1589).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (3832).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1507).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (680).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (135).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (250).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1166).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (184).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1483).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1627).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (65).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (139).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (455).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1569).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (959).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (989).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (521).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (457).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (352).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (613).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1328).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (1367).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1355).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1571).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (274).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1241).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (651).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (649).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1312).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (123).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (307).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (387).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (213).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (511).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (815).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (441).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (534).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1399).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (113).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (68).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (156).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (151).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (171).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1673).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (3552).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (837).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (295).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1091).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (312).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (3601).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (974).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (301).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (347).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1544).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (479).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (2040).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (4).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (566).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (610).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1193).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (250).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (527).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (978).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (414).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (353).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (762).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (21).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (165).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (927).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (1130).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1839).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (90).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (84).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (544).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1212).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (679).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1108).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (1863).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (63).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (351).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (756).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (906).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (954).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (36).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1262).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (372).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (589).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (532).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (963).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (674).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1655).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (653).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1112).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (754).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (5013).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (422).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (1879).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (3481).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (641).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (775).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (809).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (913).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (697).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1872).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (1326).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (683).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (89).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (2486).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (734).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (308).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (473).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (351).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (340).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (5250).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (547).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (405).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (186).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (1449).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (3299).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (526).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1236).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (309).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (806).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (2800).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (831).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (47).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (213).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (1159).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (2101).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (3).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (1323).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (100).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (49).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (793).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (12).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (94).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (169).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (548).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1822).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1104).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (489).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (964).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (147).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (104).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (360).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1168).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1265).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1291).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1284).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (681).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (710).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1177).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (865).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1618).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (1199).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (739).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (961).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (41).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (639).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (320).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1102).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (582).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (759).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (588).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (196).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (187).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (118).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (912).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (88).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1293).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (346).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (804).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (211).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (2829).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (205).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (1411).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (159).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (278).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (290).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (94).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (96).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (268).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (1288).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (128).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Spider_mites Two-spotted_spider_mite\image (375).JPG,Spider_mites Two-spotted_spider_mite
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (1272).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (395).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (788).JPG,Bacterial_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_mosaic_virus\image (322).JPG,Tomato_mosaic_virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (3965).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Target_Spot\image (681).JPG,Target_Spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Leaf_Mold\image (124).JPG,Leaf_Mold
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Septoria_leaf_spot\image (717).JPG,Septoria_leaf_spot
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___healthy\image (378).JPG,healthy
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Early_blight\image (810).JPG,Early_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (2325).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Tomato_Yellow_Leaf_Curl_Virus\image (1457).JPG,Tomato_Yellow_Leaf_Curl_Virus
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Late_blight\image (1522).JPG,Late_blight
+C:\Users\hp\Downloads\Plant_leave_diseases_dataset_without_augmentation\Tomato___Bacterial_spot\image (2093).JPG,Bacterial_spot

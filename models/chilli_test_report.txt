@@ -1,0 +1,19 @@
+CHILLI TEST RESULTS
+Checkpoint: C:\Users\hp\Documents\LiveCam_AgriVision\models\chilli_best.pth
+Test images: 284
+Accuracy: 96.83%
+
+                      precision    recall  f1-score   support
+
+      Bacterial Spot     0.8800    0.9167    0.8980        24
+Cercospora Leaf Spot     0.9583    0.8214    0.8846        28
+          Curl Virus     0.9846    1.0000    0.9922        64
+        Healthy Leaf     0.9857    0.9857    0.9857        70
+Nutrition Deficiency     0.9710    0.9853    0.9781        68
+          White spot     0.9677    1.0000    0.9836        30
+
+            accuracy                         0.9683       284
+           macro avg     0.9579    0.9515    0.9537       284
+        weighted avg     0.9684    0.9683    0.9678       284
+
+Elapsed seconds: 7.5

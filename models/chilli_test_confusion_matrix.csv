@@ -1,0 +1,7 @@
+Actual / Predicted,Bacterial Spot,Cercospora Leaf Spot,Curl Virus,Healthy Leaf,Nutrition Deficiency,White spot
+Bacterial Spot,22,0,0,0,2,0
+Cercospora Leaf Spot,3,23,1,1,0,0
+Curl Virus,0,0,64,0,0,0
+Healthy Leaf,0,1,0,69,0,0
+Nutrition Deficiency,0,0,0,0,67,1
+White spot,0,0,0,0,0,30

@@ -1,0 +1,5 @@
+Actual / Predicted,Cercospora_leaf_spot Gray_leaf_spot,Common_rust,Northern_Leaf_Blight,healthy
+Cercospora_leaf_spot Gray_leaf_spot,71,0,7,0
+Common_rust,0,179,0,1
+Northern_Leaf_Blight,15,2,131,1
+healthy,0,0,0,175
